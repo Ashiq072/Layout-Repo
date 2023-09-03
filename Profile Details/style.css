@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(11, 11, 41);
+}
+.box{
+    height: 300px;
+    width: 600px;
+    background-image: linear-gradient(to right,rgb(218, 70, 70),rgb(210, 126, 210),rgb(169, 100, 209), rgb(111, 182, 236));
+    border-radius: 20px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}
+.box1{
+    height: 270px;
+    width: 200px;
+    background-image: linear-gradient(to right, rgba(74, 65, 65, 0.918) ,rgba(21, 16, 16, 0.977));
+    border-radius: 20px;
+    position: absolute;
+    left: 28%;
+    bottom: 26%;
+}
+img{
+    border-radius: 50%;
+    height: 50%;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+h3{
+    margin-left: 55px;
+    margin-top: -1px;
+}
+h5{
+    color: white;
+    margin-left: 50px;
+    margin-top: -5px;
+    font-weight: bold;
+}
+.box2{
+    height: 270px;
+    width: 330px;
+    border-radius: 20px;
+    position: absolute;
+    background-image: linear-gradient(to right, rgba(21, 16, 16, 0.977),rgba(74, 65, 65, 0.918) );
+    left: 46%;
+    bottom: 26%;
+}
+h3{
+    background-image: linear-gradient(to right,rgb(218, 70, 70)10%,rgb(210, 126, 210)10%,rgb(169, 100, 209)10%, rgb(223, 223, 32));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-weight: bold;
+}
+table{
+    color: white;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.pro{
+    margin-left: 30%;
+    margin-top: 20px;
+}
+p{
+    color: white;
+    margin-left: 70px;
+    font-size: 13px;
+}

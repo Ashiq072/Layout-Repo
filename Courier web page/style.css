@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/64/94/courier-parcel-background-delivery-service-van-vector-34496494.jpg);
+}
+#cor{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+h2{
+    margin-top: -25px;
+    margin-left: 140px;
+    color: rgb(106, 59, 151);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 780px;
+    margin-top: -50px;
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  .active{
+    background-color:rgb(118, 69, 118) ;
+}
+  
+
+  #search{
+    margin-top: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+.para{
+    margin-top: 260px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+#ah{
+    color: orangered;
+}
+
+#ha{
+    margin-top: -15px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+button{
+    background-color: rgb(118, 69, 118);
+    height: 30px;
+    width: 120px;
+    color: white;
+    border: none;
+}

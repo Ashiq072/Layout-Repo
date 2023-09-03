@@ -1,0 +1,41 @@
+body{
+background-color: rgb(126, 181, 163);
+color: white;
+}
+h2{
+  color: white;
+  margin-left: 100px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 500px;
+    margin-top: -50px;
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:white;
+    padding: 1px;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: lighter;
+  }
+.para{
+ margin-top: 18%;
+}
+
+button{
+    background-color:rgb(126, 181, 163);
+    height: 30px;
+    width: 150px;
+    color: white;
+    border:2px solid white;
+}
